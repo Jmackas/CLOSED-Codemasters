@@ -41,7 +41,17 @@ Variables:
 
     If a variable has been incorrectly established, then the client will just see a blank space. 
 
-'echo' is a method of outputting to the screen.
+    'Assignment' is similiar to JS and everything else.
+
+    
+
+'echo' is a method of outputting to the screen. 'print' is also a similiar one. They are effectively the same, but 'echo' is better.
+
+
+
+
+
+
 
 
 
