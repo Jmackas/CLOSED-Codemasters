@@ -10,5 +10,11 @@ HTML is static, PHP is dynamic.
 
 PHP allows the content to change, HTML will always stay the same.
 
-Backend languages are used for every database backend.
+Backend languages are used for every database backend. 
+
+Reddit's backend stack is Python and Flask as the server side language. It is a Ngnix server. That being said, the HTML, JS, and CSS are always the same.
+
+For linux, the backend is PHP, and the server is Apache, and it uses MySQL.
+
+
 
