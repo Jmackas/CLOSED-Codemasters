@@ -66,6 +66,7 @@ Lecture:
         '&&' is AND --> all of the statements need to be true.
         '||' is OR
         '!' is NOT 
+        'xor' is XOR --> either one can be true, but if both are true then return false.
 
         IF statements are similiar to JavaScript and all other coding structures.
 
@@ -73,7 +74,7 @@ Lecture:
 
         There are multiple syntaxes in PHP that work. One takes after C and the other after Visual Basic. Personally curly brackets are more readable. 
 
-
+    
 
 
 
