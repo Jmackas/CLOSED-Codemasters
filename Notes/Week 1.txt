@@ -1,2 +1,14 @@
 Every thursday evening we have an online live tutorial from 6:30 to 7:30.
 
+CRUD epitomises the fundamentals of database design. Creating, Reading, Updating, and Deleting stuff in a database.
+
+The roles of HTML, CSS, etc are amalgamating. Content, Styles, and behaviour.
+
+PHP is not behaviour, JS is behaviour. PHP, similiarly to HTML, is content.
+
+HTML is static, PHP is dynamic.
+
+PHP allows the content to change, HTML will always stay the same.
+
+Backend languages are used for every database backend.
+
