@@ -18,5 +18,30 @@ Reddit's backend stack is Python and Flask as the server side language. It is a 
 
 For linux, the backend is PHP, and the server is Apache, and it uses MySQL.
 
+PHP is pretty good. It has always been open source and a good community. 
+
+Code is displayed like:
+    <?php
+        // PHP code
+    ?>
+
+It can also be displayed like:
+    <?
+        // PHP code
+    ?>
+
+PHP doesn't need a semicolon for the last statement, BUT it should have a semicolon anyway for good practice.
+
+Variables:
+    Data types consist of: strings, variables, integers, etc.
+
+    Arrays are also variable types.
+
+    Variables are declared with a '$'. It doesn't need a 'var'. Example; '$car' is a variable.
+
+    If a variable has been incorrectly established, then the client will just see a blank space. 
+
+    
+
 
 
