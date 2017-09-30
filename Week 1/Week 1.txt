@@ -46,6 +46,8 @@ Variables:
 
     Modified camel case is acceptable. That being said, Wordpress uses underscores. Be consistent.
 
+    The operations are BIMDAS (Bracket, Indices, Multiplication, Division, Addition, Subtraction).
+
     Variables are declared with a '$'. It doesn't need a 'var'. Example; '$car' is a variable.
 
     If a variable has been incorrectly established, then the client will just see a blank space. 
