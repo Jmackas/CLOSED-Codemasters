@@ -60,8 +60,7 @@ Double quotes or single quotes don't matter. That being said, be consistent.
 
 To add multiple variables and strings to output, use a '.'. Don't use a plus sign '+'.
 
-
-
+'**' is how an indice is displayed. 
 
 
 
