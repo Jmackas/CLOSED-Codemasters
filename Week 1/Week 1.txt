@@ -60,8 +60,9 @@ Lecture:
 
     '**' is how an indice is displayed. 
 
+    Surrounding a variable echo output with 'number_format(variable, decimal points, "", "");'
 
-
+    
 
 
 
