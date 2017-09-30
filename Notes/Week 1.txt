@@ -1,3 +1,10 @@
+Notes:
+/////////////////
+   lit word: concatenate
+
+
+Lecture:
+////////////////
 Every thursday evening we have an online live tutorial from 6:30 to 7:30.
 
 CRUD epitomises the fundamentals of database design. Creating, Reading, Updating, and Deleting stuff in a database.
@@ -37,15 +44,22 @@ Variables:
 
     Arrays are also variable types.
 
+    Modified camel case is acceptable. That being said, Wordpress uses underscores. Be consistent.
+
     Variables are declared with a '$'. It doesn't need a 'var'. Example; '$car' is a variable.
 
     If a variable has been incorrectly established, then the client will just see a blank space. 
 
-    'Assignment' is similiar to JS and everything else.
-
-    
+    'Assignment' is similiar to JS and everything else. '$varOne = 333'.
 
 'echo' is a method of outputting to the screen. 'print' is also a similiar one. They are effectively the same, but 'echo' is better.
+
+Double quotes or single quotes don't matter. That being said, be consistent.
+
+To add multiple variables and strings to output, use a '.'. Don't use a plus sign '+'.
+
+
+
 
 
 
