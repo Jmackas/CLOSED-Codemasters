@@ -62,7 +62,19 @@ Lecture:
 
     Surrounding a variable echo output with 'number_format(variable, decimal points, "", "");'
 
-    
+    If-else:
+        '&&' is AND --> all of the statements need to be true.
+        '||' is OR
+        '!' is NOT 
+
+        IF statements are similiar to JavaScript and all other coding structures.
+
+        Instead of using multiple 'if' statements, just use an 'if else'.
+
+        There are multiple syntaxes in PHP that work. One takes after C and the other after Visual Basic. Personally curly brackets are more readable. 
+
+
+
 
 
 
