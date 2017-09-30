@@ -32,7 +32,7 @@ Code is displayed like:
         // PHP code
     ?>
 
-It can also be displayed like:
+This also works, but is quite dangerous (DON'T DO IT):
     <?
         // PHP code
     ?>
