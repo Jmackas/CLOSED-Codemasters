@@ -67,7 +67,7 @@ Lecture:
         '||' is OR
         '!' is NOT 
         'xor' is XOR --> either one can be true, but if both are true then return false.
-
+        
         IF statements are similiar to JavaScript and all other coding structures.
 
         Instead of using multiple 'if' statements, just use an 'if else'.
