@@ -74,8 +74,7 @@ Lecture:
 
         There are multiple syntaxes in PHP that work. One takes after C and the other after Visual Basic. Personally curly brackets are more readable. 
 
-        Switch statements can also be used, but requires a 'break;' after each line.
-        
+        Switch statements can also be used, but requires a 'break;' after each line. Switch statements don't have a different syntax.
     
 
 
